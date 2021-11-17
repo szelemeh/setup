@@ -1,5 +1,5 @@
-# Install brew dependencies
-xargs brew install < brew-list.txt
+# Install brew packages
+brew bundle
 
 # Write zsh terminal config
 cp .zshrc ~/.zshrc
