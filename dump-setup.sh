@@ -1,2 +1,2 @@
 # Dump installed brew packages
-brew leaves --installed-on-request | sort > brew-list.txt
+brew bundle dump
