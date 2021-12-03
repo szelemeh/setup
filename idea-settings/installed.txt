@@ -1,0 +1,6 @@
+Dart
+com.bloc.intellij_generator_plugin
+com.thoughtworks.gauge
+io.flutter
+org.intellij.plugins.markdown
+org.jetbrains.kotlin
