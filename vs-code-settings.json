@@ -1,0 +1,197 @@
+{
+  "workbench.colorCustomizations": {
+    "[Material Theme High Contrast]": {
+      "statusBar.debuggingBackground": "#212121",
+      "editorWarning.border": "#000000"
+    }
+  },
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [120],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "dart.lineLength": 120,
+  "files.autoSave": "afterDelay",
+  "editor.minimap.enabled": false,
+  "python.languageServer": "Pylance",
+  "python.pythonPath": "/Users/subzarro/.pyenv/myvenv/bin/python3",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDragAndDrop": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.codeLens.enabled": false,
+  "gitlens.statusBar.enabled": false,
+  "git.autofetch": false,
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "terminal.integrated.fontWeight": "normal",
+  "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+  "editor.mouseWheelZoom": true,
+
+  "editor.inlineHints.fontFamily": "Fira Code",
+  "git.enableSmartCommit": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.quickSuggestionsDelay": 0,
+  "dart.previewLsp": true,
+  "dart.previewUpdateImportsOnRename": true,
+  "workbench.colorTheme": "One Dark Pro",
+  "dart.flutterSdkPaths": [
+    "C:\\src\\flutter"
+],
+  "dart.flutterSdkPath": null,
+  "dart.sdkPaths": [
+    "C:\\tools\\dart"
+],
+  "dart.debugExternalLibraries": true,
+  "dart.debugSdkLibraries": false,
+  "explorer.confirmDelete": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.configuration.runtimes": [
+    {
+        "name": "JavaSE-15",
+        "path": "C:\\Users\\subza\\.jdks\\openjdk-15.0.1"
+    }
+],
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.wordBasedSuggestions": false
+  },
+  "clipboard-manager.onlyWindowFocused": false,
+  "clipboard-manager.snippet.enabled": false,
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "redhat.telemetry.enabled": false,
+  "java.project.importHint": false,
+  "python.venvPath": "~/.pyenv",
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "workbench.editor.pinnedTabSizing": "shrink",
+  "terminal.explorerKind": "external",
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "gitlens.blame.avatars": false,
+  "gitlens.blame.highlight.locations": ["line"],
+  "gitlens.blame.heatmap.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"python.defaultInterpreterPath": "python3",
+  "editor.tabSize": 2,
+  "cmake.configureOnOpen": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4 }",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "atlascode.jira.lastCreateSiteAndProject": {
+    "siteId": "",
+    "projectKey": ""
+  },
+  "javascript.preferences.quoteStyle": "single",
+  "npm-intellisense.importLinebreak": "",
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.format.semicolons": "remove",
+  "typescript.format.semicolons": "remove",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.format.enable": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "codetogether.userName": "szelemeh",
+  "dart.warnWhenEditingFilesInPubCache": false,
+  "[elixir]": {
+    "editor.defaultFormatter": "saratravi.elixir-formatter"
+  },
+  "editor.fontLigatures": true,
+  "workbench.editor.showTabs": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "cSpell.userWords": [
+    "Includeable",
+    "Parens",
+    "Readonly",
+    "UUIDV",
+    "blackstar",
+    "cupertino",
+    "defaultsauto",
+    "firestore",
+    "mediaservices",
+    "qontrol",
+    "reorderable",
+    "signin",
+    "szelemeh"
+  ],
+  "todo-tree.regex.enableMultiLine": true,
+  "todo-tree.regex.regex": "(//)\\\\s*($TAGS).*(\\\\n\\\\s*//\\\\s{2,}.*)*",
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "cSpell.enabledLanguageIds": [
+    "asciidoc",
+    "c",
+    "cpp",
+    "csharp",
+    "css",
+    "git-commit",
+    "go",
+    "graphql",
+    "handlebars",
+    "haskell",
+    "html",
+    "jade",
+    "java",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "latex",
+    "less",
+    "markdown",
+    "php",
+    "plaintext",
+    "python",
+    "pug",
+    "restructuredtext",
+    "rust",
+    "scala",
+    "scss",
+    "typescript",
+    "typescriptreact",
+    "yaml",
+    "yml"
+  ],
+  "git.confirmSync": false,
+  "workbench.editor.untitled.hint": "hidden",
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.bracketPairsHorizontal": false,
+  "dart.debugExternalPackageLibraries": false,
+}
